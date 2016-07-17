@@ -1,0 +1,29 @@
+[Game] Loaded stats server on port 88
+[Main] Listening on port 443
+[Main] Current game mode is Free For All
+Garbage collecting in 1440 minutes!
+[Main] Loaded 9 player bots
+[Main] A player with an IP of 127.0.0.1 joined the game
+[SC] Loaded 207, live updated skins
+[[32mOK[0m] Uniban updated
+[ChatMessages] Loaded 4 Messages.
+[Console] Message sent to all
+>stats
+[Console] Invalid Command, try [33mhelp[0m for a list of commands.
+>customlb stats
+[Console] Turned off LB stats
+>customlb power
+[Console] Turned off the LB stats plugin
+[Console] Message sent to all
+[Console] Message sent to all
+>customlb stats
+[Console] Please enable plugin again by doing customLB power to access other commands!
+>customlb power
+[Console] Turned on the LB stats plugin
+>customlb stats
+[Console] Turned on LB stats
+[Console] Message sent to all
+[Console] Message sent to all
+[Console] Message sent to all
+[Main] A player with an IP of 127.0.0.1 left the game
+[Console] Message sent to all
